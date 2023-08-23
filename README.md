@@ -13,3 +13,9 @@ Meu primeiro programa feito em Python, durante o Bootcamp Santander 2023 Ciênci
 
 - [@DavidDev](https://www.github.com/Cigas1)
 
+## Demonstração
+
+- Segue o print do programa rodando no terminal do Visual Studio Code:
+
+  [![Demonstração](https://prnt.sc/lP7a3pVbR1ym)]()
+
